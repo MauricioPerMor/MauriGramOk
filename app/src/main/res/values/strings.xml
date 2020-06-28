@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">MauriGram</string>
+    <string name="title_activity_referencia">ReferenciaActivity</string>
+    <string name="hint_username">Nombre de Usuario</string>
+    <string name="password">Clave</string>
+    <string name="hint_user">Nombre de Usuario</string>
+
+    <string name="hint_password">Contraseña</string>
+    <string name="hint_confirm_password">Contraseña</string>
+
+    <string name="text_button_login">Ingresar</string>
+    <string name="dont_have_account">No tenes cuenta? ,</string>
+    <string name="create_here"> crea una cuenta aca</string>
+    <string name="hint_confirm_Password">Confirmar Contraseña</string>
+    <string name="hint_email">Correo</string>
+    <string name="hint_name">Nombre</string>
+    <string name="text_button_createaccount">Unite</string>
+    <string name="toolbar_title_createaccount">Crear Cuenta</string>
+    <string name="username_card">Parrillada Familia y Boquita</string>
+    <string name="firstword_card">Hace</string>
+    <string name="timecard_card">2 dias</string>
+    <string name="likenumber_card">10 ME GUSTA</string>
+    <string name="likenumbercard_card">10 Me Gusta</string>
+    <string name="tab_search">Buscar</string>
+    <string name="tab_home">Inicio</string>
+    <string name="tab_profile">Perfil</string>
+    <string name="login_error">Ocurrió un error:</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Falta hacer la parte de busqueda</string>
+    <string name="secondword_detail">Me Gusta</string>
+    <string name="titleimagedetail">\"Viviendo la buena vida\"</string>
+    <string name="lorem">Muchas veces pensamos en cual seria la mejor vida para nosotros. es dificil poder resolverlo, lo que si es seguro que una buena vida para mi y la gente que quiero es una buena reunion Familiar con amigos, partido de BOQUITA y parrillada  </string>
+    <string name="transitionname_picture">transitionnamepicture</string>
+    <string name="stringDeRiver">drawable-xhdpi/river.jpg</string>
+    <string name="wrong_log">Aja te pesque sin autorizacion, paga el asado</string>
+    <string name="hint_title">Titulo</string>
+    <string name="hint_descriptio">Descripción</string>
+    <string name="text_button_createpost">Crear Post</string>
+    <string name="facebook_app_id">719889212167461</string>
+    <string name="fb_login_protocol_scheme">fb719889212167461</string>
+    <string name="menu_signout">Cerrar sision</string>
+    <string name="menu_about">Acerca de</string>
+
+</resources>

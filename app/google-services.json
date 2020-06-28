@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "147263833179",
+    "firebase_url": "https://maurigram-b0aa4.firebaseio.com",
+    "project_id": "maurigram-b0aa4",
+    "storage_bucket": "maurigram-b0aa4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147263833179:android:3e1ea475c4be98a45c6b7e",
+        "android_client_info": {
+          "package_name": "com.example.maurigram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "147263833179-ks66pk92hd8vgtkikhacad0pqrpm2mi9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbtnBcJx-p2_3ma7CDFlKSc1lA6zjAXAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "147263833179-ks66pk92hd8vgtkikhacad0pqrpm2mi9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
